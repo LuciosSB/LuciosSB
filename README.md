@@ -1,5 +1,5 @@
 # 💫 About Me:
-Oi, meu nome é André e atualmente estou fazendo curso de <br>Ciência da Computação na Unima, sei um pouco de java, <br>javascrip, C# e Python, se alguém estiver interessado em algo <br>sobre mim sinta-se a vontade a mandar DM
+Oi, meu nome é André e atualmente estou fazendo curso de <br>Ciência da Computação na Uninassau, odeio, mas sei java, <br>javascrip, scripts em powershell Python, se alguém estiver interessado em algo <br>sobre mim sinta-se a vontade a mandar DM
 
 
 # 💻 Tech Stack:
